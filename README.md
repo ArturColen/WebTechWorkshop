@@ -1,6 +1,8 @@
 # WebTech Workshop
 Project developed during a mobile development event organized by PUC Minas. The main objective of this project is to introduce the concept of native iOS application programming with Swift. To achieve this, a to-do list program was created, covering several important introductory concepts, such as creating interfaces with SwiftUI and storing data with UserDefaults.
 
+<video src="https://github.com/ArturColen/WebTechWorkshop/assets/96635074/974866b0-482f-4139-854c-fac517c25a79" width="100%" controls></video>
+
 ## 🔨 Project functionality
 The application was developed with the main purpose of being a to-do list. It allows users to view a list of registered tasks, add new tasks, and delete tasks as needed. Additionally, the project includes a location map to put into practice the concepts learned about MapKit.
 
